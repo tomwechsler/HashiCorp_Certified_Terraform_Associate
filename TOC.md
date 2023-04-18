@@ -3,7 +3,7 @@
 - Lab 01 - Install Terraform
 - Lab 02 - Setup Azure
 - Lab 03 - First Configuration (Azure)
-- Lab 04 - Second Azure Configuration
+- Lab 04 - Second Azure resource deployment
 - Lab 05 - Azure Config with SSH and Outputs
 - Lab 06 - Working with Variables
 - Lab 07 - Modules

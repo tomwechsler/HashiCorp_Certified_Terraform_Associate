@@ -1,18 +1,17 @@
-# Lab 04 - Second Azure Configuration
+# Lab 04b - Create different .tf files!
 In this lab you will once again create infrastructure on Azure, but in this lab you will include a basic webserver.
-The point of this exercise is to let you find out for yourself as much as possible about what exactly is provided with the main.tf file. 
-You will have 15 minutes.
+However, this exercise is about distributing the contents of the main.tf file into different files. To make the configuration more flexible.. 
+
+You will have 15 minutes. Good luck!
 
 ## Investigate the code!
-Take enough time to examine the code in the main.tf file. This is a very important lesson to get to know and understand Terraform even better. 
+Create the following files:  
+-> locals.tf  
+-> outputs.tf  
+-> providers.tf  
+-> variables.tf  
 
-- Create a main.tf file for your code.  
-- Copy and paste the code for the resource from the file named code.txt.
-- Save your work!
-
-> NOTE: For additional practice, if you are using VSCode, consider opening code.txt in the built-in Terminal (using the cat command or vim/nano) and type the code, line by line, in the code window. 
-
-> NOTE: For more information on all Azure virtual machine sizes, see this link: https://learn.microsoft.com/en-us/azure/virtual-machines/sizes
+Copy the main.tf file from the fourth exercise (you can use the file from the solutions directory) to the lab-04b directory. Try to figure out which code elements could be moved into the new files you created. If you have trouble look in the solution directory.
 
 ## Take a look at the Terraform Registry
 https://registry.terraform.io/
@@ -36,5 +35,5 @@ Using the correct command, destroy the infrastructure and verify that it has bee
 > !! IMPORTANT !! Practice! Spend some time at the Terraform Registry: https://registry.terraform.io/
 
 ---
-## *Great work!*
+## So cool, part 2 of the exercise done! *Great work!*
 ---

@@ -26,6 +26,8 @@ This overwrites the variable value from the variables.tf file.
 
 > NOTE: Be sure to destroy any infrastructure when complete.
 
+> NOTE: Do not forget the variables precedence [Variables Precedence](https://github.com/tomwechsler/HashiCorp_Certified_Terraform_Associate/blob/main/Exam_Alerts.md)
+
 ## Procedure - Part 3
 - Change (whichever) two default values in your variables.tf file. 
 - Apply the infrastructure.

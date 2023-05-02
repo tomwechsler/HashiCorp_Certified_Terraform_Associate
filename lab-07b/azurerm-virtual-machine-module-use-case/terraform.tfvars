@@ -1,0 +1,20 @@
+rgname   = "Terraform-rg"
+location = "westeurope"
+custom_tags = {
+  Environment = "prod"
+  Owner       = "Azure-Terraform"
+}
+vm_size              = "Standard_B2ms"
+vm_name              = "Terraform-vm"
+admin_username       = "azureterraform"
+vm_publisher         = "MicrosoftWindowsServer"
+vm_offer             = "WindowsServer"
+vm_sku               = "2022-Datacenter"
+vm_version           = "latest"
+sku_name             = "standard"
+vnet_name            = "Terraform-vnet"
+address_space        = ["10.1.0.0/16"]
+subnet_name          = "Terraform-subnet"
+nic_name             = "Terraform-nic"
+keyvault_name        = "terraform-vm-keyvault"
+keyvault_secret_name = "Terraform-vm-password"

@@ -15,7 +15,7 @@ Explanation: When we run terraform init, it downloads files to the local directo
 ```
 3. Correct answer: A
 ```
-Explanation: When we want to get output from the module, then we need to define module.<modulename>.<outputname>.
+Explanation: When we want to get output from the module, then we need to define module."modulename"."outputname".
 
 ```
 4. Correct answer: C

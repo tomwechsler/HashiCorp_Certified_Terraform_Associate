@@ -6,6 +6,8 @@ https://app.terraform.io/app
 
 https://www.hashicorp.com/certification/terraform-associate
 
+https://developer.hashicorp.com/certifications/infrastructure-automation
+
 https://developer.hashicorp.com/terraform/tutorials/certification-003
 
 https://developer.hashicorp.com/terraform/tutorials/azure-get-started

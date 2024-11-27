@@ -8,6 +8,8 @@ https://www.hashicorp.com/certification/terraform-associate
 
 https://developer.hashicorp.com/certifications/infrastructure-automation
 
+https://hashicorp-certifications.zendesk.com/hc/en-us/articles/9677396620941-Recertification-policies-and-processes
+
 https://developer.hashicorp.com/terraform/tutorials/certification-003
 
 https://developer.hashicorp.com/terraform/tutorials/azure-get-started
